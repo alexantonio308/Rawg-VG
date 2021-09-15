@@ -1,0 +1,16 @@
+.main {
+    background-color: gray;
+
+    .container {
+        background-color: lightsteelblue;
+
+        .g-4 {
+            margin: 10;
+        }
+        .cardImg {
+            width: 286px;
+            height: 179px;
+            background-size: cover;
+        }
+    }
+}

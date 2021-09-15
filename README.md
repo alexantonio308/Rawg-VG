@@ -1,2 +1,2 @@
 # Rawg-VG
-Sitem em ReactJS + API RAWG Vídeo Games 
+Site em ReactJS + API RAWG Vídeo Games 
