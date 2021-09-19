@@ -11,6 +11,21 @@
             width: 286px;
             height: 179px;
             background-size: cover;
+            .col{
+                width:100%;
+            }
+        }
+
+    }
+}
+
+.modal-dialog{
+    max-width: 100%;
+    .divImage{
+        max-width: 800px; 
+        height: 600px;
+        .modalImage{
+            width: 100%;
         }
     }
 }
